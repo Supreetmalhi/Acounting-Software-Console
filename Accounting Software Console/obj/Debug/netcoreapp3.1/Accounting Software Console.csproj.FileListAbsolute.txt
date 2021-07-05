@@ -1,0 +1,13 @@
+C:\Users\malhi\OneDrive\Documents\GitHub\Acounting Software Console\Accounting Software Console\bin\Debug\netcoreapp3.1\Accounting Software Console.exe
+C:\Users\malhi\OneDrive\Documents\GitHub\Acounting Software Console\Accounting Software Console\bin\Debug\netcoreapp3.1\Accounting Software Console.deps.json
+C:\Users\malhi\OneDrive\Documents\GitHub\Acounting Software Console\Accounting Software Console\bin\Debug\netcoreapp3.1\Accounting Software Console.runtimeconfig.json
+C:\Users\malhi\OneDrive\Documents\GitHub\Acounting Software Console\Accounting Software Console\bin\Debug\netcoreapp3.1\Accounting Software Console.runtimeconfig.dev.json
+C:\Users\malhi\OneDrive\Documents\GitHub\Acounting Software Console\Accounting Software Console\bin\Debug\netcoreapp3.1\Accounting Software Console.dll
+C:\Users\malhi\OneDrive\Documents\GitHub\Acounting Software Console\Accounting Software Console\bin\Debug\netcoreapp3.1\Accounting Software Console.pdb
+C:\Users\malhi\OneDrive\Documents\GitHub\Acounting Software Console\Accounting Software Console\obj\Debug\netcoreapp3.1\Accounting Software Console.csproj.AssemblyReference.cache
+C:\Users\malhi\OneDrive\Documents\GitHub\Acounting Software Console\Accounting Software Console\obj\Debug\netcoreapp3.1\Accounting Software Console.AssemblyInfoInputs.cache
+C:\Users\malhi\OneDrive\Documents\GitHub\Acounting Software Console\Accounting Software Console\obj\Debug\netcoreapp3.1\Accounting Software Console.AssemblyInfo.cs
+C:\Users\malhi\OneDrive\Documents\GitHub\Acounting Software Console\Accounting Software Console\obj\Debug\netcoreapp3.1\Accounting Software Console.csproj.CoreCompileInputs.cache
+C:\Users\malhi\OneDrive\Documents\GitHub\Acounting Software Console\Accounting Software Console\obj\Debug\netcoreapp3.1\Accounting Software Console.dll
+C:\Users\malhi\OneDrive\Documents\GitHub\Acounting Software Console\Accounting Software Console\obj\Debug\netcoreapp3.1\Accounting Software Console.pdb
+C:\Users\malhi\OneDrive\Documents\GitHub\Acounting Software Console\Accounting Software Console\obj\Debug\netcoreapp3.1\Accounting Software Console.genruntimeconfig.cache
